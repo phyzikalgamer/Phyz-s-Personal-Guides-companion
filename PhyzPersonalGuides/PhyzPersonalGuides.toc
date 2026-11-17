@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Phyz Personal Guides
+## Notes: Guide setup and manual import companion for Phyz Leveling. No guides included.
+## Author: Phyz
+## Version: 1.1.0
+## OptionalDeps: PhyzLeveling
+
+Companion.lua
